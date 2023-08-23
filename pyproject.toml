@@ -1,0 +1,13 @@
+[project]
+name = "battleshiprobit"
+version = "0.1.0"
+description = "Learning a unified search and track policy"
+authors = [{ name = "Amos Hebb", email = "amos@amoshebb.com" }]
+dependencies = []
+requires-python = ">=3.11"
+readme = "README.md"
+license = { text = "MIT" }
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
